@@ -12,7 +12,7 @@ Digital Invader (7seg LED version)
 https://www.youtube.com/watch?v=8AtaGevNFi8
 
 Digital Invader (OLED version)
-https://www.youtube.com/watch?v=-r8wm39f0oA&t=102s
+https://www.youtube.com/watch?v=-r8wm39f0oA
 
 ## Requirement
 Arduino UNO, some electric parts.
